@@ -9,9 +9,13 @@
         <module name="springboot-n64" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-N64" target="11" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-N64" options="-parameters" />
       <module name="springboot-n64" options="-parameters" />
     </option>
   </component>

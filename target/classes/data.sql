@@ -1,0 +1,36 @@
+INSERT INTO Genre (Id, Genre) VALUES (1, 'Action');
+INSERT INTO Genre (Id, Genre) VALUES (2, 'FPS');
+INSERT INTO Genre (Id, Genre) VALUES (3, 'Fighting');
+INSERT INTO Genre (Id, Genre) VALUES (4, 'Platform');
+INSERT INTO Genre (Id, Genre) VALUES (5, 'Racing');
+INSERT INTO Genre (Id, Genre) VALUES (6, 'Sports');
+
+INSERT INTO Studio (Id, Developer) VALUES (1, 'Rare');
+INSERT INTO Studio (Id, Developer) VALUES (2, 'Nintendo');
+INSERT INTO Studio (Id, Developer) VALUES (3, 'LucasArts');
+INSERT INTO Studio (Id, Developer) VALUES (4, 'EA');
+INSERT INTO Studio (Id, Developer) VALUES (5, 'Konami');
+INSERT INTO Studio (Id, Developer) VALUES (6, 'Ubisoft');
+
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (1, 'Killer Instinct Gold', 1996, 3, 1);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (2, 'Mario Kart 64', 1996, 5, 2);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (3, 'Star Wars: Shadows of the Empire', 1996, 1, 3);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (4, 'Super Mario 64', 1996, 4, 2);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (5, 'Wave Race 64', 1996, 5, 2);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (6, 'Diddy Kong Racing', 1997, 5, 1);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (7, 'FIFA Soccer 64', 1997, 6, 4);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (8, 'FIFA: Road to World Cup 98', 1997, 6, 4);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (9, 'GoldenEye 007', 1997, 2, 1);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (10, 'International Superstar Soccer 64', 1997, 6, 5);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (11, 'Star Fox 64', 1997, 3, 2);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (12, 'Yoshi''s Story', 1997, 4, 2);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (13, 'Banjo-Kazooie', 1998, 4, 1);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (14, 'NBA In The Zone ‘98', 1998, 6, 5);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (15, 'The Legend of Zelda: Ocarina of Time', 1998, 1, 2);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (16, 'Donkey Kong 64', 1999, 4, 1);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (17, 'Rayman 2: The Great Escape', 1999, 4, 6);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (18, 'F1 Racing Championship', 2000, 5, 6);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (19, 'Perfect Dark', 2000, 2, 1);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (20, 'Ridge Racer 64', 2000, 5, 2);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (21, 'The Legend of Zelda: Majora''s Mask', 2000, 1, 2);
+INSERT INTO Game (Id, Name, Year, genre_id, studio_id) VALUES (22, 'Conker''s Bad Fur Day', 2001, 4, 1);

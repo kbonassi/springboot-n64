@@ -1,1 +1,13 @@
+com/acme/springbootn64/services/GameService.class
+com/acme/springbootn64/resources/GameResource.class
+com/acme/springbootn64/entities/Studio.class
+com/acme/springbootn64/services/GenreService.class
+com/acme/springbootn64/services/StudioService.class
+com/acme/springbootn64/resources/GenreResource.class
+com/acme/springbootn64/resources/StudioResource.class
 com/acme/springbootn64/SpringbootN64Application.class
+com/acme/springbootn64/repositories/GameRepository.class
+com/acme/springbootn64/repositories/GenreRepository.class
+com/acme/springbootn64/entities/Game.class
+com/acme/springbootn64/repositories/StudioRepository.class
+com/acme/springbootn64/entities/Genre.class

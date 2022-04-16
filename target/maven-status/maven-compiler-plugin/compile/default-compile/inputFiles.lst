@@ -1,1 +1,13 @@
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/entities/Genre.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/services/GameService.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/services/StudioService.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/resources/GenreResource.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/services/GenreService.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/resources/GameResource.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/resources/StudioResource.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/entities/Studio.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/repositories/GenreRepository.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/entities/Game.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/repositories/StudioRepository.java
 /home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/SpringbootN64Application.java
+/home/kleber/workspaces/springboot-n64/src/main/java/com/acme/springbootn64/repositories/GameRepository.java
